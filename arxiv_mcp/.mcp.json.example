@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "arxiv": {
+      "command": "/path/to/python",
+      "args": ["/path/to/arxiv_mcp/server.py"],
+      "env": {
+        "ARXIV_MCP_CACHE": "/path/to/arxiv_mcp/cache"
+      }
+    }
+  }
+}
