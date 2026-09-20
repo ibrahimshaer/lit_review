@@ -1,0 +1,31 @@
+{
+  "anchor": "2608.30041",
+  "source": "title",
+  "keywords": [],
+  "terms": [
+    "reachability-based capability confinement",
+    "llm agents",
+    "indirect prompt injection",
+    "reachability-based",
+    "capability",
+    "confinement",
+    "llm",
+    "agents",
+    "indirect",
+    "prompt",
+    "injection"
+  ],
+  "queries": [
+    "abs:\"reachability-based capability confinement\" AND cat:cs.CR",
+    "abs:\"llm agents\" AND cat:cs.CR",
+    "abs:\"indirect prompt injection\" AND cat:cs.CR",
+    "abs:\"reachability-based\" AND cat:cs.CR",
+    "abs:\"capability\" AND cat:cs.CR",
+    "abs:\"confinement\" AND cat:cs.CR",
+    "abs:\"llm\" AND cat:cs.CR",
+    "abs:\"agents\" AND cat:cs.CR",
+    "abs:\"indirect\" AND cat:cs.CR",
+    "abs:\"prompt\" AND cat:cs.CR",
+    "abs:\"injection\" AND cat:cs.CR"
+  ]
+}

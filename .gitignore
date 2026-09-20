@@ -1,0 +1,7 @@
+arxiv_mcp/cache/
+arxiv_cache/
+.mcp.json
+runs/
+*.pdf
+__pycache__/
+~$*.docx

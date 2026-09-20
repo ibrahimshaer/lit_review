@@ -1,0 +1,1432 @@
+{
+ "2402.06363": {
+  "title": "StruQ: Defending Against Prompt Injection with Structured Queries",
+  "directions": [
+   1
+  ]
+ },
+ "2406.13352": {
+  "title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+  "directions": [
+   1
+  ]
+ },
+ "2402.07867": {
+  "title": "PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models",
+  "directions": [
+   1
+  ]
+ },
+ "2410.05451": {
+  "title": "SecAlign: Defending Against Prompt Injection with Preference Optimization",
+  "directions": [
+   1
+  ]
+ },
+ "2310.13548": {
+  "title": "Towards Understanding Sycophancy in Language Models",
+  "directions": [
+   1
+  ]
+ },
+ "2312.14197": {
+  "title": "Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models",
+  "directions": [
+   1
+  ]
+ },
+ "2410.02644": {
+  "title": "Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents",
+  "directions": [
+   1
+  ]
+ },
+ "2605.14271": {
+  "title": "Auditing Agent Harness Safety",
+  "directions": [
+   1
+  ]
+ },
+ "2210.03629": {
+  "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+  "directions": [
+   1
+  ]
+ },
+ "2312.12724": {
+  "title": "Progressive Poisoned Data Isolation for Training-time Backdoor Defense",
+  "directions": [
+   1
+  ]
+ },
+ "2211.09527": {
+  "title": "Ignore Previous Prompt: Attack Techniques For Language Models",
+  "directions": [
+   1
+  ]
+ },
+ "2302.12173": {
+  "title": "Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection",
+  "directions": [
+   1
+  ]
+ },
+ "2403.14720": {
+  "title": "Defending Against Indirect Prompt Injection Attacks With Spotlighting",
+  "directions": [
+   1,
+   3
+  ]
+ },
+ "2202.03629": {
+  "title": "Survey of Hallucination in Natural Language Generation",
+  "directions": [
+   1
+  ]
+ },
+ "2406.12263": {
+  "title": "Defending Against Social Engineering Attacks in the Age of LLMs",
+  "directions": [
+   1
+  ]
+ },
+ "2503.13657": {
+  "title": "Why Do Multi-Agent LLM Systems Fail?",
+  "directions": [
+   1
+  ]
+ },
+ "2607.14493": {
+  "title": "Context Contamination in LLM Analysis of Network Security Logs: Poison with Passive Prompt Injection and Mitigation Evaluation",
+  "directions": [
+   1
+  ]
+ },
+ "2205.01992": {
+  "title": "Wild Patterns Reloaded: A Survey of Machine Learning Security against Training Data Poisoning",
+  "directions": [
+   1
+  ]
+ },
+ "2302.04761": {
+  "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+  "directions": [
+   1
+  ]
+ },
+ "2305.15334": {
+  "title": "Gorilla: Large Language Model Connected with Massive APIs",
+  "directions": [
+   1
+  ]
+ },
+ "2504.11703": {
+  "title": "Progent: Securing AI Agents with Privilege Control",
+  "directions": [
+   1
+  ]
+ },
+ "2306.05499": {
+  "title": "Prompt Injection attack against LLM-integrated Applications",
+  "directions": [
+   1,
+   3
+  ]
+ },
+ "2503.18813": {
+  "title": "Defeating Prompt Injections by Design",
+  "directions": [
+   1
+  ]
+ },
+ "2504.11358": {
+  "title": "DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks",
+  "directions": [
+   1
+  ]
+ },
+ "2602.12194": {
+  "title": "MalTool: Malicious Tool Attacks on LLM Agents",
+  "directions": [
+   1
+  ]
+ },
+ "2605.31042": {
+  "title": "From Prompt Injection to Persistent Control: Defending Agentic Harness Against Trojan Backdoors",
+  "directions": [
+   1
+  ]
+ },
+ "2403.06833": {
+  "title": "Can LLMs Separate Instructions From Data? And What Do We Even Mean By That?",
+  "directions": [
+   1
+  ]
+ },
+ "2412.03556": {
+  "title": "Best-of-N Jailbreaking",
+  "directions": [
+   1
+  ]
+ },
+ "2508.01249": {
+  "title": "AgentArmor: Enforcing Program Analysis on Agent Runtime Trace to Defend Against Prompt Injection",
+  "directions": [
+   1
+  ]
+ },
+ "2603.10749": {
+  "title": "AttriGuard: Defeating Indirect Prompt Injection in LLM Agents via Causal Attribution of Tool Invocations",
+  "directions": [
+   1
+  ]
+ },
+ "2606.28450": {
+  "title": "LLM agents security duality: a comprehensive survey of self-security and empowered cybersecurity",
+  "directions": [
+   3
+  ]
+ },
+ "2607.25297": {
+  "title": "Hybrid Analysis for Secure MCP Tool Use in LLM Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2407.19354": {
+  "title": "The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies",
+  "directions": [
+   3
+  ]
+ },
+ "2410.14569": {
+  "title": "When LLMs Go Online: The Emerging Threat of Web-Enabled LLMs",
+  "directions": [
+   3
+  ]
+ },
+ "2503.15547": {
+  "title": "Prompt Flow Integrity to Prevent Privilege Escalation in LLM Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2410.13919": {
+  "title": "LLM Agent Honeypot: Monitoring AI Hacking Agents in the Wild",
+  "directions": [
+   3
+  ]
+ },
+ "2605.16976": {
+  "title": "Securing LLM Agents Need Intent-to-Execution Integrity",
+  "directions": [
+   3
+  ]
+ },
+ "2512.11143": {
+  "title": "Automated Penetration Testing with LLM Agents and Classical Planning",
+  "directions": [
+   3
+  ]
+ },
+ "2510.14700": {
+  "title": "LLM Agents for Automated Web Vulnerability Reproduction: Are We There Yet?",
+  "directions": [
+   3
+  ]
+ },
+ "2506.01900": {
+  "title": "COALESCE: Economic and Security Dynamics of Skill-Based Task Outsourcing Among Team of Autonomous LLM Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2603.19375": {
+  "title": "Automated Membership Inference Attacks (AutoMIA): Discovering MIA Signal Computations using LLM Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2406.03007": {
+  "title": "BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2506.11791": {
+  "title": "SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks",
+  "directions": [
+   3
+  ]
+ },
+ "2502.13172": {
+  "title": "Unveiling Privacy Risks in LLM Agent Memory",
+  "directions": [
+   3
+  ]
+ },
+ "2604.05432": {
+  "title": "Your LLM Agent Can Leak Your Data: Data Exfiltration via Backdoored Tool Use",
+  "directions": [
+   3
+  ]
+ },
+ "2404.08144": {
+  "title": "LLM Agents can Autonomously Exploit One-day Vulnerabilities",
+  "directions": [
+   3
+  ]
+ },
+ "2402.06664": {
+  "title": "LLM Agents can Autonomously Hack Websites",
+  "directions": [
+   3
+  ]
+ },
+ "2503.17332": {
+  "title": "CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities",
+  "directions": [
+   3
+  ]
+ },
+ "2504.03111": {
+  "title": "Les Dissonances: Cross-Tool Harvesting and Polluting in Pool-of-Tools Empowered LLM Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2604.23374": {
+  "title": "Ghost in the Agent: Redefining Information Flow Tracking for LLM Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2505.12981": {
+  "title": "From Assistants to Adversaries: Exploring the Security Risks of Mobile LLM Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2604.09747": {
+  "title": "ADAM: A Systematic Data Extraction Attack on Agent Memory via Adaptive Querying",
+  "directions": [
+   3
+  ]
+ },
+ "2510.15994": {
+  "title": "MCP Security Bench (MSB): Benchmarking Attacks Against Model Context Protocol in LLM Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2503.01908": {
+  "title": "UDora: A Unified Red Teaming Framework against LLM Agents by Dynamically Hijacking Their Own Reasoning",
+  "directions": [
+   3
+  ]
+ },
+ "2510.07176": {
+  "title": "Exposing LLM User Privacy via Traffic Fingerprint Analysis: A Study of Privacy Risks in LLM Agent Interactions",
+  "directions": [
+   3
+  ]
+ },
+ "2603.30016": {
+  "title": "Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks",
+  "directions": [
+   3
+  ]
+ },
+ "2601.04795": {
+  "title": "Defense Against Indirect Prompt Injection via Tool Result Parsing",
+  "directions": [
+   3
+  ]
+ },
+ "2510.09093": {
+  "title": "Exploiting Web Search Tools of AI Agents for Data Exfiltration",
+  "directions": [
+   3
+  ]
+ },
+ "2608.06477": {
+  "title": "StepJack: Benchmarking Computer-Use Agent Safety Against Multi-Step Indirect Prompt Injection",
+  "directions": [
+   3
+  ]
+ },
+ "2604.11790": {
+  "title": "ClawGuard: A Runtime Security Framework for Tool-Augmented LLM Agents Against Indirect Prompt Injection",
+  "directions": [
+   3
+  ]
+ },
+ "2505.05849": {
+  "title": "AgentVigil: Generic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2609.18411": {
+  "title": "The Verifiable Action Card: Trustworthy Human-in-the-Loop Control for Secure Autonomous Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2601.10173": {
+  "title": "ReasAlign: Reasoning Enhanced Safety Alignment against Prompt Injection Attack",
+  "directions": [
+   3
+  ]
+ },
+ "2510.13543": {
+  "title": "In-Browser LLM-Guided Fuzzing for Real-Time Prompt Injection Testing in Agentic AI Browsers",
+  "directions": [
+   3
+  ]
+ },
+ "2605.11868": {
+  "title": "IPI-proxy: An Intercepting Proxy for Red-Teaming Web-Browsing AI Agents Against Indirect Prompt Injection",
+  "directions": [
+   3
+  ]
+ },
+ "2602.09222": {
+  "title": "MUZZLE: Adaptive Agentic Red-Teaming of Web Agents Against Indirect Prompt Injection Attacks",
+  "directions": [
+   3
+  ]
+ },
+ "2503.15772": {
+  "title": "Detecting LLM-Generated Peer Reviews",
+  "directions": [
+   3
+  ]
+ },
+ "2602.07398": {
+  "title": "AgentSys: Secure and Dynamic LLM Agents Through Explicit Hierarchical Memory Management",
+  "directions": [
+   3
+  ]
+ },
+ "2503.00061": {
+  "title": "Adaptive Attacks Break Defenses Against Indirect Prompt Injection Attacks on LLM Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2606.19235": {
+  "title": "CodeSentinel: A Three-Layer Defense Against Indirect Prompt Injection in Code Contexts",
+  "directions": [
+   3
+  ]
+ },
+ "2608.05430": {
+  "title": "Robust Context-Aware Detection of Malicious Instructions in Text",
+  "directions": [
+   3
+  ]
+ },
+ "2606.22779": {
+  "title": "DE-FIVE: Detecting Malicious Image Prompts via Fourier Features and Image Vector Embeddings",
+  "directions": [
+   3
+  ]
+ },
+ "2607.19837": {
+  "title": "Know Your Agent: Reconnaissance-Driven Pentesting of AI Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2507.14799": {
+  "title": "Manipulating LLM Web Agents with Indirect Prompt Injection Attack via HTML Accessibility Tree",
+  "directions": [
+   3
+  ]
+ },
+ "2604.27202": {
+  "title": "Indirect Prompt Injection in the Wild: An Empirical Study of Prevalence, Techniques, and Objectives",
+  "directions": [
+   3
+  ]
+ },
+ "2606.12737": {
+  "title": "PI-Hunter: Automated Red-Teaming for Exposing and Localizing Prompt Injections",
+  "directions": [
+   3
+  ]
+ },
+ "2606.07992": {
+  "title": "VATS: Exploiting Implicit Authority in Error-Path Injection via Systematic Mutation",
+  "directions": [
+   3
+  ]
+ },
+ "2609.04495": {
+  "title": "Rethinking Indirect Prompt Injection as a Test-Time Search Problem",
+  "directions": [
+   3
+  ]
+ },
+ "2603.18063": {
+  "title": "MCP-38: A Comprehensive Threat Taxonomy for Model Context Protocol Systems (v1.0)",
+  "directions": [
+   3
+  ]
+ },
+ "0706.0502": {
+  "title": "Relating two standard notions of secrecy",
+  "directions": [
+   3
+  ]
+ },
+ "2208.09800": {
+  "title": "Zeno: A Scalable Capability-Based Secure Architecture",
+  "directions": [
+   3
+  ]
+ },
+ "2104.07141": {
+  "title": "Dynamic Information Security Management Capability: Strategising for Organisational Performance",
+  "directions": [
+   3
+  ]
+ },
+ "2307.05552": {
+  "title": "Hybrid load balancing method with failover capability in server cluster using SDN",
+  "directions": [
+   3
+  ]
+ },
+ "2608.26699": {
+  "title": "KubeCap: A Framework for Capability Minimization in Kubernetes via Static Analysis and LLM-Assisted Rule Inference",
+  "directions": [
+   3
+  ]
+ },
+ "2308.02945": {
+  "title": "RV-CURE: A RISC-V Capability Architecture for Full Memory Safety",
+  "directions": [
+   3
+  ]
+ },
+ "2604.18510": {
+  "title": "Behind Harmful Compliance: Behavioral and Mechanistic Divergence Across LLM Jailbreaks",
+  "directions": [
+   3
+  ]
+ },
+ "2505.20162": {
+  "title": "Capability-Based Scaling Trends for LLM-Based Red-Teaming",
+  "directions": [
+   3
+  ]
+ },
+ "2601.14567": {
+  "title": "Agent Identity URI Scheme: Topology-Independent Naming and Capability-Based Discovery for Multi-Agent Systems",
+  "directions": [
+   3
+  ]
+ },
+ "2609.07131": {
+  "title": "AgentLeak: Cloning Stronger LLM Agent Capabilities onto Weaker Agents Beyond Skill Stealing",
+  "directions": [
+   3
+  ]
+ },
+ "2604.23058": {
+  "title": "The Security Cost of Intelligence: AI Capability, Cyber Risk, and Deployment Paradox",
+  "directions": [
+   3
+  ]
+ },
+ "2308.15692": {
+  "title": "Intriguing Properties of Diffusion Models: An Empirical Study of the Natural Attack Capability in Text-to-Image Generative Models",
+  "directions": [
+   3
+  ]
+ },
+ "2605.02978": {
+  "title": "Observability for Post-Quantum TLS Readiness: A Multi-Surface Evidence Framework",
+  "directions": [
+   3
+  ]
+ },
+ "2605.14153": {
+  "title": "ExploitBench: A Capability Ladder Benchmark for LLM Cybersecurity Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2503.00555": {
+  "title": "Safety Tax: Safety Alignment Makes Your Large Reasoning Models Less Reasonable",
+  "directions": [
+   3
+  ]
+ },
+ "2511.17874": {
+  "title": "Beyond Jailbreak: Unveiling Risks in LLM Applications Arising from Blurred Capability Boundaries",
+  "directions": [
+   3
+  ]
+ },
+ "2212.04160": {
+  "title": "Blockchain for Data Sharing at the Network Edge: Trade-Off Between Capability and Security",
+  "directions": [
+   3
+  ]
+ },
+ "1207.1936": {
+  "title": "New Parameters of Linear Codes Expressing Security Performance of Universal Secure Network Coding",
+  "directions": [
+   3
+  ]
+ },
+ "2302.13863": {
+  "title": "Capstone: A Capability-based Foundation for Trustless Secure Memory Access (Extended Version)",
+  "directions": [
+   3
+  ]
+ },
+ "2506.13590": {
+  "title": "Agent Capability Negotiation and Binding Protocol (ACNBP)",
+  "directions": [
+   3
+  ]
+ },
+ "2605.16167": {
+  "title": "From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems",
+  "directions": [
+   3
+  ]
+ },
+ "2310.17127": {
+  "title": "A Method for Network Intrusion Detection Using Flow Sequence and BERT Framework",
+  "directions": [
+   3
+  ]
+ },
+ "2604.16762": {
+  "title": "CapSeal: Capability-Sealed Secret Mediation for Secure Agent Execution",
+  "directions": [
+   3
+  ]
+ },
+ "2211.04980": {
+  "title": "A Capability-based Distributed Authorization System to Enforce Context-aware Permission Sequences",
+  "directions": [
+   3
+  ]
+ },
+ "2603.08400": {
+  "title": "Trust Nothing: RTOS Security without Run-Time Software TCB (Extended Version)",
+  "directions": [
+   3
+  ]
+ },
+ "2605.00267": {
+  "title": "Jailbroken Frontier Models Retain Their Capabilities",
+  "directions": [
+   3
+  ]
+ },
+ "2102.06972": {
+  "title": "BPFContain: Fixing the Soft Underbelly of Container Security",
+  "directions": [
+   3
+  ]
+ },
+ "2607.08147": {
+  "title": "Prismata: Confining Cross-Site Prompt Injection in Web Agents",
+  "directions": [
+   3
+  ]
+ },
+ "1405.0867": {
+  "title": "Confinement for Active Objects",
+  "directions": [
+   3
+  ]
+ },
+ "1210.5443": {
+  "title": "Secure Abstraction with Code Capabilities",
+  "directions": [
+   3
+  ]
+ },
+ "2604.01092": {
+  "title": "LightGuard: Transparent WiFi Security via Physical-Layer LiFi Key Bootstrapping",
+  "directions": [
+   3
+  ]
+ },
+ "1401.6726": {
+  "title": "Anception: Application Virtualization For Android",
+  "directions": [
+   3
+  ]
+ },
+ "2607.00213": {
+  "title": "Federated Sovereign Transport Protocol (FSTP): Verifiable Coordination Without Disclosure",
+  "directions": [
+   3
+  ]
+ },
+ "2402.13281": {
+  "title": "Fight Hardware with Hardware: System-wide Detection and Mitigation of Side-Channel Attacks using Performance Counters",
+  "directions": [
+   3
+  ]
+ },
+ "2108.09508": {
+  "title": "Data Security and Privacy in Cloud Computing: Concepts and Emerging Trends",
+  "directions": [
+   3
+  ]
+ },
+ "1909.12282": {
+  "title": "CapExec: Towards Transparently-Sandboxed Services (Extended Version)",
+  "directions": [
+   3
+  ]
+ },
+ "2603.09544": {
+  "title": "Compartmentalization-Aware Automated Program Repair",
+  "directions": [
+   3
+  ]
+ },
+ "1706.05592": {
+  "title": "Forming Guard Sets using AS Relationships",
+  "directions": [
+   3
+  ]
+ },
+ "1501.05673": {
+  "title": "System M: A Program Logic for Code Sandboxing and Identification",
+  "directions": [
+   3
+  ]
+ },
+ "2007.09085": {
+  "title": "Preservation of DNA Privacy During the Large Scale Detection of COVID-19",
+  "directions": [
+   3
+  ]
+ },
+ "2512.11147": {
+  "title": "MiniScope: A Least Privilege Framework for Authorizing Tool Calling Agents",
+  "directions": [
+   3
+  ]
+ },
+ "1402.2206": {
+  "title": "Humanitarian Algorithms : A Codified Key Safety Switch Protocol for Lethal Autonomy",
+  "directions": [
+   3
+  ]
+ },
+ "2604.02366": {
+  "title": "Out-of-Domain Stress Test for Temporal Braid Group Privilege Escalation Detection",
+  "directions": [
+   3
+  ]
+ },
+ "1510.05497": {
+  "title": "Characterizing SEAndroid Policies in the Wild",
+  "directions": [
+   3
+  ]
+ },
+ "1810.00464": {
+  "title": "Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation",
+  "directions": [
+   3
+  ]
+ },
+ "2101.02632": {
+  "title": "Triple-entry Accounting, Blockchain and Next of Kin: Towards a Standardisation of Ledger Terminology",
+  "directions": [
+   3
+  ]
+ },
+ "2608.21989": {
+  "title": "Key Recovery from Residue-Confined Errors in Pradhan CRT-RLWE",
+  "directions": [
+   3
+  ]
+ },
+ "2605.26298": {
+  "title": "Sandlock: Confining AI Agent Code with Unprivileged Linux Primitives",
+  "directions": [
+   3
+  ]
+ },
+ "2607.04613": {
+  "title": "Governed Individuation: Cryptographically Decoupling an Agent's Learning from Its Authority",
+  "directions": [
+   3
+  ]
+ },
+ "2304.04386": {
+  "title": "Generating Adversarial Attacks in the Latent Space",
+  "directions": [
+   3
+  ]
+ },
+ "2008.05833": {
+  "title": "Experimental demonstrations of unconditional security in a purely classical regime",
+  "directions": [
+   3
+  ]
+ },
+ "2508.03097": {
+  "title": "VFLAIR-LLM: A Comprehensive Framework and Benchmark for Split Learning of LLMs",
+  "directions": [
+   3
+  ]
+ },
+ "2409.19091": {
+  "title": "System-Level Defense against Indirect Prompt Injection Attacks: An Information Flow Control Perspective",
+  "directions": [
+   3
+  ]
+ },
+ "2408.02871": {
+  "title": "Hide and Seek: Fingerprinting Large Language Models with Evolutionary Learning",
+  "directions": [
+   3
+  ]
+ },
+ "2506.06518": {
+  "title": "A Systematic Review of Poisoning Attacks Against Large Language Models",
+  "directions": [
+   3
+  ]
+ },
+ "2411.01604": {
+  "title": "Large Language Model Supply Chain: Open Problems From the Security Perspective",
+  "directions": [
+   3
+  ]
+ },
+ "2309.14348": {
+  "title": "Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM",
+  "directions": [
+   3
+  ]
+ },
+ "2309.10254": {
+  "title": "LLM Platform Security: Applying a Systematic Evaluation Framework to OpenAI's ChatGPT Plugins",
+  "directions": [
+   3
+  ]
+ },
+ "2506.01245": {
+  "title": "Comprehensive Vulnerability Analysis is Necessary for Trustworthy LLM-MAS",
+  "directions": [
+   3
+  ]
+ },
+ "2604.23141": {
+  "title": "UNSEEN: A Cross-Stack LLM Unlearning Defense against AR-LLM Social Engineering Attacks",
+  "directions": [
+   3
+  ]
+ },
+ "2405.10051": {
+  "title": "MarkLLM: An Open-Source Toolkit for LLM Watermarking",
+  "directions": [
+   3
+  ]
+ },
+ "2602.12630": {
+  "title": "TensorCommitments: A Lightweight Verifiable Inference for Language Models",
+  "directions": [
+   3
+  ]
+ },
+ "2508.17884": {
+  "title": "PhantomLint: Principled Detection of Hidden LLM Prompts in Structured Documents",
+  "directions": [
+   3
+  ]
+ },
+ "2408.13247": {
+  "title": "An In-Depth Investigation of Data Collection in LLM App Ecosystems",
+  "directions": [
+   3
+  ]
+ },
+ "2609.17839": {
+  "title": "Evaluating the Impact of Personalization in Conversational Cybersecurity Assistants",
+  "directions": [
+   3
+  ]
+ },
+ "2507.02699": {
+  "title": "Control at Stake: Evaluating the Security Landscape of LLM-Driven Email Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2402.18649": {
+  "title": "A New Era in LLM Security: Exploring Security Concerns in Real-World LLM-based Systems",
+  "directions": [
+   3
+  ]
+ },
+ "2311.16153": {
+  "title": "Identifying and Mitigating Vulnerabilities in LLM-Integrated Applications",
+  "directions": [
+   3
+  ]
+ },
+ "2409.19182": {
+  "title": "Artificial-Intelligence Generated Code Considered Harmful: A Road Map for Secure and High-Quality Code Generation",
+  "directions": [
+   3
+  ]
+ },
+ "2509.07939": {
+  "title": "Guided Reasoning in LLM-Driven Penetration Testing Using Structured Attack Trees",
+  "directions": [
+   3
+  ]
+ },
+ "2409.00089": {
+  "title": "Watermarking Techniques for Large Language Models: A Survey",
+  "directions": [
+   3
+  ]
+ },
+ "2403.10553": {
+  "title": "Learning to Watermark LLM-generated Text via Reinforcement Learning",
+  "directions": [
+   3
+  ]
+ },
+ "2605.07961": {
+  "title": "Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs",
+  "directions": [
+   3
+  ]
+ },
+ "2406.08689": {
+  "title": "Security of AI Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2608.17659": {
+  "title": "MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps",
+  "directions": [
+   3
+  ]
+ },
+ "2004.01312": {
+  "title": "Preserving Statistical Privacy in Distributed Optimization",
+  "directions": [
+   3
+  ]
+ },
+ "2311.01698": {
+  "title": "Adversarial Attacks on Cooperative Multi-agent Bandits",
+  "directions": [
+   3
+  ]
+ },
+ "1903.09315": {
+  "title": "Statistical Privacy in Distributed Average Consensus on Bounded Real Inputs",
+  "directions": [
+   3
+  ]
+ },
+ "2607.05120": {
+  "title": "Agent Data Injection Attacks are Realistic Threats to AI Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2605.09721": {
+  "title": "Security Risks in Tool-Enabled AI Agents: A Systematic Analysis of Privileged Execution Environments",
+  "directions": [
+   3
+  ]
+ },
+ "2508.19493": {
+  "title": "Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2411.17585": {
+  "title": "Multi-Objective Reinforcement Learning for Automated Resilient Cyber Defence",
+  "directions": [
+   3
+  ]
+ },
+ "2509.21011": {
+  "title": "Automatic Red Teaming LLM-based Agents with Model Context Protocol Tools",
+  "directions": [
+   3
+  ]
+ },
+ "2609.16541": {
+  "title": "A Cyber Range Evaluation of Autonomous Network Incident Response Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2605.01247": {
+  "title": "FP-Agent: Fingerprinting AI Browsing Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2606.15549": {
+  "title": "One Goal, Many Commands: Characterizing Denylist Fragility in AI Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2602.13363": {
+  "title": "Assessing Spear-Phishing Website Generation in Large Language Model Coding Agents",
+  "directions": [
+   3
+  ]
+ },
+ "1909.02918": {
+  "title": "Blackbox Attacks on Reinforcement Learning Agents Using Approximated Temporal Information",
+  "directions": [
+   3
+  ]
+ },
+ "2507.21146": {
+  "title": "Towards Unifying Quantitative Security Benchmarking for Multi Agent Systems",
+  "directions": [
+   3
+  ]
+ },
+ "2409.12882": {
+  "title": "On the Hardness of Decentralized Multi-Agent Policy Evaluation under Byzantine Attacks",
+  "directions": [
+   3
+  ]
+ },
+ "2406.17425": {
+  "title": "CuDA2: An approach for Incorporating Traitor Agents into Cooperative Multi-Agent Systems",
+  "directions": [
+   3
+  ]
+ },
+ "2504.21034": {
+  "title": "SAGA: A Security Architecture for Governing AI Agentic Systems",
+  "directions": [
+   3
+  ]
+ },
+ "2512.07725": {
+  "title": "Privacy Practices of Browser Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2507.14263": {
+  "title": "Beyond DNS: Unlocking the Internet of AI Agents via the NANDA Index and Verified AgentFacts",
+  "directions": [
+   3
+  ]
+ },
+ "2505.04843": {
+  "title": "Large Language Models are Autonomous Cyber Defenders",
+  "directions": [
+   3
+  ]
+ },
+ "2510.16128": {
+  "title": "Prompt injections as a tool for preserving identity in GAI image descriptions",
+  "directions": [
+   3
+  ]
+ },
+ "2111.01415": {
+  "title": "Callee: Recovering Call Graphs for Binaries with Transfer and Contrastive Learning",
+  "directions": [
+   3
+  ]
+ },
+ "2206.13144": {
+  "title": "An Indirect Social Trust Model for Vehicular Social Networks Using Evolving Graph Theory",
+  "directions": [
+   3
+  ]
+ },
+ "2608.29489": {
+  "title": "SpatialTrust: A Benchmark for Environmental Risk Recognition in Secure Authentication",
+  "directions": [
+   3
+  ]
+ },
+ "2609.03280": {
+  "title": "Long-Range Indirect Control-Flow Prediction in Stripped Binaries via Dual Virtual Hubs and Multi-Task Graph Learning",
+  "directions": [
+   3
+  ]
+ },
+ "2402.08416": {
+  "title": "Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning",
+  "directions": [
+   3
+  ]
+ },
+ "2604.24118": {
+  "title": "AgentVisor: Defending LLM Agents Against Prompt Injection via Semantic Virtualization",
+  "directions": [
+   3
+  ]
+ },
+ "2507.10746": {
+  "title": "Optimal Debiased Inference on Privatized Data via Indirect Estimation and Parametric Bootstrap",
+  "directions": [
+   3
+  ]
+ },
+ "1405.3912": {
+  "title": "An implementation on detection of trusted service provider in mobile ad-hoc networks",
+  "directions": [
+   3
+  ]
+ },
+ "2412.19143": {
+  "title": "LibAFL-DiFuzz: Advanced Architecture Enabling Directed Fuzzing",
+  "directions": [
+   3
+  ]
+ },
+ "2311.18717": {
+  "title": "Can AI Detect Wash Trading? Evidence from NFTs",
+  "directions": [
+   3
+  ]
+ },
+ "2109.12209": {
+  "title": "Finding Taint-Style Vulnerabilities in Linux-based Embedded Firmware with SSE-based Alias Analysis",
+  "directions": [
+   3
+  ]
+ },
+ "2408.05025": {
+  "title": "Rag and Roll: An End-to-End Evaluation of Indirect Prompt Manipulations in LLM-based Application Frameworks",
+  "directions": [
+   3
+  ]
+ },
+ "2511.16347": {
+  "title": "The Shawshank Redemption of Embodied AI: Understanding and Benchmarking Indirect Environmental Jailbreaks",
+  "directions": [
+   3
+  ]
+ },
+ "1907.02143": {
+  "title": "Key Event Receipt Infrastructure (KERI)",
+  "directions": [
+   3
+  ]
+ },
+ "2604.22888": {
+  "title": "RouteGuard: Internal-Signal Detection of Skill Poisoning in LLM Agents",
+  "directions": [
+   3
+  ]
+ },
+ "2501.02407": {
+  "title": "Towards the Anonymization of the Language Modeling",
+  "directions": [
+   3
+  ]
+ },
+ "2404.06737": {
+  "title": "Disguised Copyright Infringement of Latent Diffusion Models",
+  "directions": [
+   3
+  ]
+ },
+ "2607.10712": {
+  "title": "Distributed Denial of Science: How Indirect Data Poisoning of AI Systems Can Industrialize Scientific Fraud",
+  "directions": [
+   3
+  ]
+ },
+ "1407.1972": {
+  "title": "Secure Routing Path Using Trust Values for Wireless Sensor Networks",
+  "directions": [
+   3
+  ]
+ },
+ "2601.17888": {
+  "title": "iResolveX: Multi-Layered Indirect Call Resolution via Static Reasoning and Learning-Augmented Refinement",
+  "directions": [
+   3
+  ]
+ },
+ "1909.12302": {
+  "title": "New Attacks and Defenses for Randomized Caches",
+  "directions": [
+   3
+  ]
+ },
+ "2402.12959": {
+  "title": "Prompt Stealing Attacks Against Large Language Models",
+  "directions": [
+   3
+  ]
+ },
+ "2502.09974": {
+  "title": "Has My System Prompt Been Used? Large Language Model Prompt Membership Inference",
+  "directions": [
+   3
+  ]
+ },
+ "2401.07612": {
+  "title": "Signed-Prompt: A New Approach to Prevent Prompt Injection Attacks Against LLM-Integrated Applications",
+  "directions": [
+   3
+  ]
+ },
+ "2312.11513": {
+  "title": "Maatphor: Automated Variant Analysis for Prompt Injection Attacks",
+  "directions": [
+   3
+  ]
+ },
+ "2510.03705": {
+  "title": "Backdoor-Powered Prompt Injection Attacks Nullify Defense Methods",
+  "directions": [
+   3
+  ]
+ },
+ "2502.12630": {
+  "title": "Automating Prompt Leakage Attacks on Large Language Models Using Agentic Approach",
+  "directions": [
+   3
+  ]
+ },
+ "2605.30613": {
+  "title": "CacheProbe: Auditing Prompt Cache Isolation in Gateway APIs",
+  "directions": [
+   3
+  ]
+ },
+ "2304.03472": {
+  "title": "Does Prompt-Tuning Language Model Ensure Privacy?",
+  "directions": [
+   3
+  ]
+ },
+ "2510.19844": {
+  "title": "CourtGuard: A Local, Multiagent Prompt Injection Classifier",
+  "directions": [
+   3
+  ]
+ },
+ "2402.19200": {
+  "title": "PRSA: Prompt Stealing Attacks against Real-World Prompt Services",
+  "directions": [
+   3
+  ]
+ },
+ "2506.19109": {
+  "title": "Enhancing Security in LLM Applications: A Performance Evaluation of Early Detection Systems",
+  "directions": [
+   3
+  ]
+ },
+ "2608.28411": {
+  "title": "LongPIBench: A Long-Context Benchmark for Prompt Injection",
+  "directions": [
+   3
+  ]
+ },
+ "2601.17379": {
+  "title": "Prompt and Circumstances: Evaluating the Efficacy of Human Prompt Inference in AI-Generated Art",
+  "directions": [
+   3
+  ]
+ },
+ "2409.11026": {
+  "title": "Prompt Obfuscation for Large Language Models",
+  "directions": [
+   3
+  ]
+ },
+ "2310.07632": {
+  "title": "Prompt Backdoors in Visual Prompt Learning",
+  "directions": [
+   3
+  ]
+ },
+ "2408.02416": {
+  "title": "Why Are My Prompts Leaked? Unraveling Prompt Extraction Threats in Customized Large Language Models",
+  "directions": [
+   3
+  ]
+ },
+ "2311.16119": {
+  "title": "Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition",
+  "directions": [
+   3
+  ]
+ },
+ "2310.12815": {
+  "title": "Formalizing and Benchmarking Prompt Injection Attacks and Defenses",
+  "directions": [
+   3
+  ]
+ },
+ "2506.05739": {
+  "title": "To Protect the LLM Agent Against the Prompt Injection Attack with Polymorphic Prompt",
+  "directions": [
+   3
+  ]
+ },
+ "2608.00747": {
+  "title": "When Prompts Control Robots: Prompt Injection Attacks in Multi-Agent Robotic Systems",
+  "directions": [
+   3
+  ]
+ },
+ "2311.01011": {
+  "title": "Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game",
+  "directions": [
+   3
+  ]
+ },
+ "2505.23817": {
+  "title": "System Prompt Extraction Attacks and Defenses in Large Language Models",
+  "directions": [
+   3
+  ]
+ },
+ "2502.11006": {
+  "title": "Prompt Inject Detection with Generative Explanation as an Investigative Tool",
+  "directions": [
+   3
+  ]
+ },
+ "2502.06039": {
+  "title": "Benchmarking Prompt Engineering Techniques for Secure Code Generation with GPT Models",
+  "directions": [
+   3
+  ]
+ },
+ "1605.02796": {
+  "title": "Analysis of SQL Injection Detection Techniques",
+  "directions": [
+   3
+  ]
+ },
+ "1402.6421": {
+  "title": "Electromagnetic fault injection: towards a fault model on a 32-bit microcontroller",
+  "directions": [
+   3
+  ]
+ },
+ "2405.18824": {
+  "title": "Node Injection Attack Based on Label Propagation Against Graph Neural Network",
+  "directions": [
+   3
+  ]
+ },
+ "1811.00917": {
+  "title": "Large-Scale Analysis of Style Injection by Relative Path Overwrite",
+  "directions": [
+   3
+  ]
+ },
+ "2608.08027": {
+  "title": "BASIS: Breach-Aware Selective Prompt Injection Shielding with Prefill Attention Probes",
+  "directions": [
+   3
+  ]
+ },
+ "2302.06932": {
+  "title": "Oops..! I Glitched It Again! How to Multi-Glitch the Glitching-Protections on ARM TrustZone-M",
+  "directions": [
+   3
+  ]
+ },
+ "2204.08592": {
+  "title": "Context-Auditor: Context-sensitive Content Injection Mitigation",
+  "directions": [
+   3
+  ]
+ },
+ "2105.00391": {
+  "title": "Spinner: Automated Dynamic Command Subsystem Perturbation",
+  "directions": [
+   3
+  ]
+ },
+ "2310.13389": {
+  "title": "On the Effect of Clock Frequency on Voltage and Electromagnetic Fault Injection",
+  "directions": [
+   3
+  ]
+ },
+ "2508.20866": {
+  "title": "AVIATOR: Towards AI-Agentic Vulnerability Injection Workflow for High-Fidelity, Large-Scale Code Security Dataset",
+  "directions": [
+   3
+  ]
+ },
+ "2509.18341": {
+  "title": "SoK: A Beginner-Friendly Introduction to Fault Injection Attacks",
+  "directions": [
+   3
+  ]
+ },
+ "2509.05883": {
+  "title": "Multimodal Prompt Injection Attacks: Risks and Defenses for Modern LLMs",
+  "directions": [
+   3
+  ]
+ },
+ "2606.12011": {
+  "title": "InjectV: Modeling Fault Injection Attacks in RISC-V Simulation Environment",
+  "directions": [
+   3
+  ]
+ },
+ "2512.12583": {
+  "title": "Detecting Prompt Injection Attacks Against Application Using Classifiers",
+  "directions": [
+   3
+  ]
+ },
+ "2302.02042": {
+  "title": "BarrierBypass: Out-of-Sight Clean Voice Command Injection Attacks through Physical Barriers",
+  "directions": [
+   3
+  ]
+ },
+ "2606.09204": {
+  "title": "The Injection Paradox: Brand-Level Suppression in Safety-Trained LLM Recommendations via RAG Context Injection",
+  "directions": [
+   3
+  ]
+ },
+ "1402.1943": {
+  "title": "Proactive Web Server Protocol for Complaint Assessment",
+  "directions": [
+   3
+  ]
+ },
+ "2603.21642": {
+  "title": "Are AI-assisted Development Tools Immune to Prompt Injection?",
+  "directions": [
+   3
+  ]
+ }
+}
