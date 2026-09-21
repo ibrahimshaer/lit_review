@@ -2,7 +2,7 @@
 
 An anchor-and-difference literature review, run by Claude Code. You read one paper and write notes. The assistant builds the search space in three directions, tiers the results against your notes, and diffs the closest papers against them, page by page.
 
-The article that explains the method: [link to the Substack post].
+The article that explains the method: https://ibrahimshaer.substack.com/p/a-twelve-dollar-literature-review.
 
 | Folder | What it is |
 |---|---|
